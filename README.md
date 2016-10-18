@@ -15,3 +15,7 @@ And edits "config/kuroko2.yml"
 
 ## License
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+
+## Acknowledgements
+
+Kuroko2 was originaly developed by Naoto Takai and Cookpad Inc.
